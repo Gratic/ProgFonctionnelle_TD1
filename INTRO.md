@@ -168,5 +168,5 @@ Scala répond au besoin des développeurs Java souhaitant avoir un langage fonct
 ### Swift
 Swift est le nouveau langage de programmation d'Apple. Sa syntaxe étant plus légère qu'Objective-C, il intègre les composantes de programmation fonctionnelle contrairement à son ainé.
 
-##Conclusion
+## Conclusion
 D'une manière générale, il est possible de voir que les langages évoluent vers une utilisation massive de la programmation fonctionnelle. La puissance de nos machines compensant son seul défaut, il est recommandé d'en user et abuser.
